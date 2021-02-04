@@ -33,7 +33,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sagar-soneja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sagar-soneja" height="30" width="40" /></a>
-<a href="https://fb.com/sagar soneja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sagar soneja" height="30" width="40" /></a>
+<a href="https://fb.com/sagarsoneja89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sagar soneja" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/staffan_s_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="staffan_s_s" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sagarsoneja89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sagarsoneja89" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/staffan_s_s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="staffan_s_s" height="30" width="40" /></a>
