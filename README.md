@@ -16,13 +16,13 @@
 </a>
 <br/>
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working as **MWP & Chatbot Intern**
 
-- 🌱 I’m currently learning **React, Django and MERN Stack**
+- 🌱 I’m currently learning **Microsoft Bot Framework and MERN Stack**
 
 - 👯 I’m looking to collaborate on **Some Project with other developer**
 
-- 🥅 2021 Goals: **Contribute to Open Source projects**
+- 🥅 2023 Goals: **Contribute to Open Source projects**
 
 - 📫 How to reach me **sagarsoneja89@gmail.com**
 
